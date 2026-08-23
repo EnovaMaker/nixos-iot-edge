@@ -44,7 +44,7 @@ funds.
 Proposed to NGI Fediversity (NLnet), August 2026. Developed alongside
 nixos-taler, proposed to NGI TALER — separate codebases, separate
 protocol domains, neither depends on the other being funded.
-  
+ 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) — feedback on the design in
