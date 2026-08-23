@@ -39,6 +39,12 @@ proof of concept. Not a public package yet — see
 [docs/ROADMAP.md](docs/ROADMAP.md) for the delivery plan this proposal
 funds.
 
+## Funding
+
+Proposed to NGI Fediversity (NLnet), August 2026. Developed alongside
+nixos-taler, proposed to NGI TALER — separate codebases, separate
+protocol domains, neither depends on the other being funded.
+  
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) — feedback on the design in
