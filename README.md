@@ -1,6 +1,6 @@
 # nixos-iot-edge
 
-**NixOS module for IoT data ingestion — proposed for NGI Fediversity**
+**NixOS module for IoT data ingestion**
 
 ## The idea
 
@@ -19,25 +19,20 @@ services.iot-edge = {
 };
 ```
 
-This repository holds the design and early groundwork for the proposal
-submitted to [NGI Fediversity](https://nlnet.nl/fediversity/) (NLnet,
-European Commission Next Generation Internet programme). See
-[docs/ROADMAP.md](docs/ROADMAP.md) for what the requested funding
-delivers.
+This repository holds the design and early groundwork. See
+[docs/ROADMAP.md](docs/ROADMAP.md) for the planned phases.
 
 ## Why this gap
 
-No NGI Fediversity-funded project currently covers IoT/edge data
-collection, and no reusable, declarative NixOS module exists for it —
-existing setups (Mosquitto + Telegraf + InfluxDB, wired by hand) are
+In the projects we have looked at, no reusable, declarative NixOS module
+covers IoT/edge data collection — existing setups (Mosquitto + Telegraf + InfluxDB, wired by hand) are
 assembled per-machine with no shared, tested module.
 
 ## Status
 
-Early-stage: architecture drafted, core approach validated in a local
-proof of concept. Not a public package yet — see
-[docs/ROADMAP.md](docs/ROADMAP.md) for the delivery plan this proposal
-funds.
+Early-stage: architecture drafted; a private proof of concept exists. Not a
+public package yet — see [docs/ROADMAP.md](docs/ROADMAP.md) for the planned
+phases.
 
 ## Contributing
 

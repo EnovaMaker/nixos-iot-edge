@@ -1,9 +1,8 @@
 # Contributing to nixos-iot-edge
 
-This project is at the proposal/design stage — see
-[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the current thinking.
-The implementation is what the NGI Fediversity funding, if granted, will
-deliver — see [docs/ROADMAP.md](docs/ROADMAP.md).
+This project is at the design stage — see
+[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the current thinking and
+[docs/ROADMAP.md](docs/ROADMAP.md) for the planned phases.
 
 ## What's useful right now
 

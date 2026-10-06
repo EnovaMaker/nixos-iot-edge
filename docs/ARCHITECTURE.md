@@ -1,7 +1,7 @@
 # Architecture (design)
 
-High-level approach — this is the design this proposal funds building out,
-not a description of a finished system.
+High-level approach — the planned design, not a description of a finished
+system.
 
 ```
 sensors --MQTT--> broker --> ingestion agent --> time-series store --> API
@@ -15,7 +15,7 @@ sensors --MQTT--> broker --> ingestion agent --> time-series store --> API
 - **REST API** — local read access to sensors and readings.
 
 The exact NixOS options surface, MQTT topic conventions, and CLI are part
-of what this proposal delivers — see [ROADMAP.md](ROADMAP.md).
+of the plan — see [ROADMAP.md](ROADMAP.md).
 
 ## Open questions
 
